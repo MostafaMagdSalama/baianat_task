@@ -32,6 +32,35 @@
 $ npm install
 ```
 
+# **Baianat Task**
+## Create User
+![create-user](https://user-images.githubusercontent.com/37047996/119651612-7cb16500-be25-11eb-8e84-92640d443906.PNG)
+
+## Get All Users
+![get-all-users](https://user-images.githubusercontent.com/37047996/119651605-7ae7a180-be25-11eb-978d-221d7eefc3d3.PNG)
+
+## Login 
+ ### JWT 
+![login](https://user-images.githubusercontent.com/37047996/119651607-7b803800-be25-11eb-8dd3-d4c6988797cc.PNG)
+![create-tweet](https://user-images.githubusercontent.com/37047996/119651610-7c18ce80-be25-11eb-9994-57719d180d2b.PNG)
+
+
+## Following
+![following](https://user-images.githubusercontent.com/37047996/119651615-7d49fb80-be25-11eb-82c3-3e65790f98d8.PNG)
+## Get All Followed Users
+![get-all-followed-users](https://user-images.githubusercontent.com/37047996/119651596-78854780-be25-11eb-995d-e013d2604dc2.PNG)
+
+## Get All Followers
+![get-all-followers](https://user-images.githubusercontent.com/37047996/119651599-79b67480-be25-11eb-94b1-79dd2bb507c9.PNG)
+
+## Get All Tweets
+![get-all-tweets](https://user-images.githubusercontent.com/37047996/119651603-7a4f0b00-be25-11eb-81e9-84af9c400ad1.PNG)
+
+
+
+
+
+
 ## Running the app
 
 ```bash
